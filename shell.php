@@ -1,3 +1,3 @@
 <?php
-echo system('ls');
+system('../../../../../../readfile');
 ?>
